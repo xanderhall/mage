@@ -50,6 +50,7 @@ public final class MarchOfTheMachineTheAftermath extends ExpansionSet {
         cards.add(new SetCardInfo("Nashi, Moon's Legacy", 39, Rarity.RARE, mage.cards.n.NashiMoonsLegacy.class));
         cards.add(new SetCardInfo("Nissa, Resurgent Animist", 22, Rarity.MYTHIC, mage.cards.n.NissaResurgentAnimist.class));
         cards.add(new SetCardInfo("Niv-Mizzet, Supreme", 40, Rarity.RARE, mage.cards.n.NivMizzetSupreme.class));
+        cards.add(new SetCardInfo("Ob Nixilis, Captive Kingpin", 41, Rarity.MYTHIC, mage.cards.o.ObNixilisCaptiveKingpin.class));
         cards.add(new SetCardInfo("Open the Way", 23, Rarity.RARE, mage.cards.o.OpenTheWay.class));
         cards.add(new SetCardInfo("Pia Nalaar, Consul of Revival", 42, Rarity.RARE, mage.cards.p.PiaNalaarConsulOfRevival.class));
         cards.add(new SetCardInfo("Plargg and Nassari", 18, Rarity.RARE, mage.cards.p.PlarggAndNassari.class));
